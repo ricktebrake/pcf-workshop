@@ -1,6 +1,6 @@
 ---
 applications:
-  - name: quintor-user-service
+  - name: user-service
     instances: 1
     memory: 768M
     buildpacks:
